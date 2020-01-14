@@ -1,0 +1,18 @@
+{
+  "posts": [
+    {
+      "id": 1576608495157,
+      "title": "456123asd",
+      "body": "456123asd"
+    },
+    {
+      "id": 1576608501918,
+      "title": "123",
+      "body": "123"
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
